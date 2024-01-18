@@ -2,4 +2,6 @@ venv
 
 .vscode
 
+.DS_Store
+
 /mysite/**/__pycache__
